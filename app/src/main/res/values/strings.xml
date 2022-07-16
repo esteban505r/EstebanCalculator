@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EstebanCalculator</string>
+    <string name="type_something">Escribe tus operaciones...</string>
+    <string name="clean">Clean</string>
+</resources>
